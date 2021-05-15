@@ -1,0 +1,74 @@
+{
+ "name": "2019 Aktif sosyal medya kullanıcıları",
+ "children": [
+  {
+   "name": "FB Messenger",
+   "children": [
+    {
+     "name": "cluster"
+    },
+    {
+     "name": "graph"
+    },
+    {
+     "name": "Cinsel içerikli mesaj",
+     "children": [
+      {"name": "Fotoğraf", "size": 7074}
+     ]
+    }
+   ]
+  },
+  
+  {
+   "name": "Whatsapp",
+   "children": [
+    {
+     "name": "converters"
+    
+    },
+    {"name": "Sesli", "size": 1759},
+    {"name": "Görüntülü", "size": 2165},
+   
+    {"name": "Sözlü şantaj", "size": 3331},
+    
+    {"name": "Sahte profil", "size": 3322}
+   ]
+  },
+  {
+   "name": "Instagram",
+   "children": [
+    {"name": "Fake hesap", "size": 8833},
+    {"name": "Pornografi", "size": 1732},
+    {"name": "Fotoğraf çalma", "size": 3623},
+    {"name": "Taklit etme", "size": 10066}
+   ]
+  },
+  
+  {
+   "name": "Snapchat",
+   "children": [
+    {"name": "GPS takibi", "size": 3002},
+    {"name": "Taklit ", "size": 3019}
+   ]
+  },
+  {
+   "name": "Twitter",
+   "children": [
+    {"name": "Pornografi", "size": 2616},
+    {"name": "Mention", "size": 2027},
+    {"name": "Sahte hesap", "size": 3891},
+    {"name": "Taciz", "size": 3343},
+    {"name": "Photoshop", "size": 1554}
+   ]
+  },
+  {
+   "name": "Facebook",
+   "children": [
+    {"name": "Şantaj", "size": 4050},
+    {"name": "Sahte Profil", "size": 3316},
+    {"name": "Veri hırzılığı", "size": 3851}
+   ]
+  }
+  
+ ]
+}
